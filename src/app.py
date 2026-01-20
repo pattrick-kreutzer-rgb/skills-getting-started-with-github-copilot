@@ -27,36 +27,36 @@ activities = {
         "max_participants": 15,
         "participants": ["alex@mergington.edu"]
         },
-        "Math Club": {
+    "Math Club": {
         "description": "Explore advanced mathematics and problem-solving",
         "schedule": "Saturdays, 10:00 AM - 11:30 AM",
         "max_participants": 18,
         "participants": ["james@mergington.edu", "lily@mergington.edu"]
         },
-        "Basketball Team": {
+    "Basketball Team": {
         "description": "Competitive basketball training and games",
         "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 15,
         "participants": ["tyler@mergington.edu"]
         },
-        "Soccer Team": {
+    "Soccer Team": {
         "description": "Soccer practice and intramural competitions",
         "schedule": "Tuesdays and Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["lucas@mergington.edu", "sarah@mergington.edu"]
         },
-        "Drama Club": {
+    "Drama Club": {
         "description": "Theater production, acting, and performance",
         "schedule": "Wednesdays and Saturdays, 3:00 PM - 5:00 PM",
         "max_participants": 25,
         "participants": ["isabella@mergington.edu", "noah@mergington.edu"]
         },
-        "Art Studio": {
+    "Art Studio": {
         "description": "Painting, sculpture, and visual arts",
         "schedule": "Mondays and Thursdays, 3:30 PM - 4:45 PM",
         "max_participants": 16,
         "participants": ["grace@mergington.edu"]
-        }
+        },
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
